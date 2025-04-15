@@ -26,3 +26,4 @@ PyHawk is a terminal-based offensive security toolkit designed for ethical hacke
 git clone https://github.com/YourUsername/pyhawk.git
 cd pyhawk
 pip install -r requirements.txt
+python pyhawk.py [option] [target]
